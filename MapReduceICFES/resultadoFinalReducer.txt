@@ -1,0 +1,4 @@
+Puntaje más alto: 100
+Puntaje más alto: 0
+La cantidad de Estudiantes con un promedio encima de 60 es: 86138
+La cantidad de Estudiantes con un Estrato de 5 o 6: 11735

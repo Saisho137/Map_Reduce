@@ -1,0 +1,8 @@
+﻿Nueces 
+58.0
+Papa 
+28.0
+0
+Papa 
+29.31
+['Trigo ', 'Cebada ', 'Derivados del arroz ', 'Harina de trigo (1) ', 'Pan ', 'Azúcar de caña cruda ', 'Panela ', 'Miel de caña ', 'Lentejas ', 'Frijol ', 'Guandú ', 'Poroto ', 'Arvejas y guisantes', 'Camarones ']

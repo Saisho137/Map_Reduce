@@ -1,0 +1,7 @@
+﻿
+Alimento con mas grasa: Aceites vegetales  con 100.0g
+Alimento con mas vitamina C: Ají pimiento  con 87.0mg
+Alimentos con mas de 0.1g Tiamina: 0.0 Alimentos.
+Alimento con mas vitaminas: Ají pimiento con88.0615mg
+Lista de Alimentos > 1mg Hierro && < 3g Grasas: 
+['Trigo ', 'Cebada ', 'Derivados del arroz ', 'Harina de trigo (1) ', 'Pan ', 'Azúcar de caña cruda ', 'Panela ', 'Miel de caña ', 'Lentejas ', 'Frijol ', 'Guandú ', 'Poroto ', 'Arvejas y guisantes', 'Camarones ', 'Ajos ', 'Otras hortalizas frescas (6)', 'Derivados del plátano ', 'Frutas secas ', 'Café (9) ', 'Extracto de café ']

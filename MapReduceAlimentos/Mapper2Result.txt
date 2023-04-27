@@ -1,0 +1,8 @@
+﻿Aceites vegetales 
+100.0
+Ají pimiento 
+87.0
+0
+Ají pimiento 
+88.0615
+['Ajos ', 'Otras hortalizas frescas (6)', 'Derivados del plátano ', 'Frutas secas ', 'Café (9) ', 'Extracto de café ']
